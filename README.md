@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @panayiotissss
 - 👀 I’m interested in data analytics/science
-- 🌱 I’m currently learning SQL, R 
+- 🌱 I’m currently learning SQL, R, working on machine learning projects
 
 
 <!---
