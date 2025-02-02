@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @panayiotissss
-- 👀 I’m interested in data analytics/science
-- 🌱 I’m currently working with  SQL & R & Python! 
-- 🦾 I'm interested in machine learning projects!
+## 👋 Hi, I’m @panayiotissss
+
+- 👀 I’m interested in **technology** and **full-stack development**.
+- 🌱 I’m currently working with **SQL**, **R**, and other technologies for **full-stack development**.
+- 🔧 I'm interested in learning more about **backend frameworks**, **databases**, **front-end technologies**, and **machine learning**.
+
 
 
 <!---
