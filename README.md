@@ -1,8 +1,8 @@
 ## 👋 Hi, I’m @panayiotissss
 
-- 👀 I’m interested in **technology** and **full-stack development**.
-- 🌱 I’m currently working with **SQL**, **R**, and other technologies for **full-stack development**.
-- 🔧 I'm interested in learning more about **backend frameworks**, **databases**, **front-end technologies**, and **machine learning**.
+- 👀 I’m interested in **technology**, **Machine Leanring** and **Full-Stack Development**.
+- 🌱 I’m currently working with **Python** ,**SQL**, **R**, and other technologies for  **Full-Stack Development** including **React** and **TypeScript**.
+- 🔧 I'm interested in learning more about **Machine Learning**,  **Databases**, **Front-End Technologies** and **Backend Frameworks**,
 
 
 
